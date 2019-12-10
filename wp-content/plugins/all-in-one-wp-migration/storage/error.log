@@ -1,0 +1,6 @@
+Dec 10 2019 18:10:49
+{"type":2,"message":"fopen(D:\\xammp\\htdocs\\onewerx\/wp-content\/uploads\/ig-logs\/log-2019-12-10-12e9152b3cf667b0fdf2dc483466ec63.log): failed to open stream: No such file or directory","file":"D:\\xammp\\htdocs\\onewerx\\wp-content\\plugins\\email-subscribers\\includes\\logs\\log-handlers\\class-ig-log-handler-file.php","line":132}
+
+Dec 10 2019 18:11:10
+{"type":2,"message":"fopen(D:\\xammp\\htdocs\\onewerx\/wp-content\/uploads\/ig-logs\/log-2019-12-10-12e9152b3cf667b0fdf2dc483466ec63.log): failed to open stream: No such file or directory","file":"D:\\xammp\\htdocs\\onewerx\\wp-content\\plugins\\email-subscribers\\includes\\logs\\log-handlers\\class-ig-log-handler-file.php","line":132}
+

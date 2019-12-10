@@ -1,0 +1,449 @@
+[04-Mar-2017 00:11:12 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/devonewerx/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[04-Mar-2017 04:58:44 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/devonewerx/public_html/wp-content/themes/twentyfifteen/functions.php on line 41
+[27-Apr-2017 02:20:59 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/devonewerx/public_html/wp-content/themes/twentyfifteen/functions.php on line 41
+[27-Apr-2017 02:35:37 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/devonewerx/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[25-Nov-2017 16:25:36 UTC] PHP Fatal error:  Call to undefined function do_action() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/footer.php on line 23
+[25-Nov-2017 16:30:49 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[25-Nov-2017 16:31:36 UTC] PHP Fatal error:  Call to undefined function _e() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/author-bio.php on line 12
+[25-Nov-2017 16:38:43 UTC] PHP Fatal error:  Call to undefined function _e() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/author-bio.php on line 12
+[12-Jan-2018 21:14:46 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[09-Feb-2018 01:34:20 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[26-Feb-2018 05:42:00 UTC] PHP Fatal error:  Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[04-Mar-2018 08:42:41 UTC] PHP Fatal error:  Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php on line 13
+[06-Mar-2018 03:41:35 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[06-Mar-2018 12:45:46 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/index.php on line 17
+[19-Mar-2018 17:23:57 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[23-Mar-2018 16:02:35 UTC] PHP Fatal error:  Call to undefined function _e() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/author-bio.php on line 12
+[23-Mar-2018 19:49:45 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/archive.php on line 19
+[27-Jun-2018 23:34:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php on line 13
+[28-Jun-2018 05:05:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[11-Aug-2018 13:57:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[21-Sep-2018 11:09:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php on line 13
+[21-Sep-2018 11:40:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php on line 13
+[21-Sep-2018 11:51:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[21-Sep-2018 12:20:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[21-Sep-2018 12:48:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[21-Sep-2018 16:25:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php on line 13
+[21-Sep-2018 17:44:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[21-Sep-2018 18:13:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[21-Sep-2018 22:02:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php on line 13
+[21-Sep-2018 22:07:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php on line 13
+[21-Sep-2018 22:54:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[21-Sep-2018 23:22:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[22-Sep-2018 02:29:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php on line 13
+[22-Sep-2018 03:25:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[22-Sep-2018 03:59:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[22-Sep-2018 04:28:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[22-Sep-2018 07:33:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php on line 13
+[22-Sep-2018 08:36:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[22-Sep-2018 08:56:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php on line 13
+[22-Sep-2018 09:41:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[22-Sep-2018 12:33:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php on line 13
+[22-Sep-2018 13:15:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php on line 13
+[22-Sep-2018 13:40:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[22-Sep-2018 14:16:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[22-Sep-2018 14:55:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[22-Sep-2018 17:35:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php on line 13
+[22-Sep-2018 18:14:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php on line 13
+[22-Sep-2018 18:41:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[22-Sep-2018 19:21:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[22-Sep-2018 20:02:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[22-Sep-2018 22:42:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php on line 13
+[23-Sep-2018 00:23:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php on line 13
+[23-Sep-2018 01:09:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[23-Sep-2018 04:26:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php on line 13
+[23-Sep-2018 04:43:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php on line 13
+[23-Sep-2018 07:00:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[23-Sep-2018 13:15:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php on line 13
+[23-Sep-2018 16:16:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[23-Sep-2018 18:13:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php on line 13
+[23-Sep-2018 22:21:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[24-Sep-2018 02:16:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[25-Sep-2018 11:57:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php on line 13
+[25-Sep-2018 12:11:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[05-Oct-2018 14:11:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function post_password_required() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/comments.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/comments.php on line 18
+[05-Oct-2018 21:50:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-none.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-none.php on line 15
+[05-Oct-2018 21:52:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/footer.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/footer.php on line 23
+[06-Oct-2018 00:28:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/index.php on line 17
+[06-Oct-2018 05:46:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-search.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-search.php on line 13
+[06-Oct-2018 08:21:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/header.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/header.php on line 12
+[06-Oct-2018 13:38:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/functions.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/functions.php on line 41
+[07-Oct-2018 07:50:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/single.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/single.php on line 10
+[17-Oct-2018 23:39:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/footer.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/footer.php on line 23
+[18-Oct-2018 07:15:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-search.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-search.php on line 13
+[18-Oct-2018 08:21:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/header.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/header.php on line 12
+[25-Oct-2018 13:45:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[25-Oct-2018 13:45:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[04-Feb-2019 04:31:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[12-Feb-2019 19:15:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[15-Feb-2019 11:29:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/index.php on line 17
+[20-Feb-2019 12:36:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[23-Mar-2019 22:00:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[23-Mar-2019 22:00:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[23-Mar-2019 22:00:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[23-Mar-2019 22:01:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[23-Mar-2019 22:01:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[23-Mar-2019 22:01:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[23-Mar-2019 22:01:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[23-Mar-2019 22:02:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[06-May-2019 20:59:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[09-May-2019 00:11:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/archive.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/archive.php on line 19
+[09-May-2019 06:19:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[10-May-2019 17:39:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/author-bio.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/author-bio.php on line 12
+[12-May-2019 09:13:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/index.php on line 17
+[12-May-2019 14:41:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php on line 13
+[13-May-2019 13:27:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[30-May-2019 06:14:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[30-May-2019 07:52:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[01-Jun-2019 18:11:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/archive.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/archive.php on line 19
+[01-Jun-2019 20:09:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/archive.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/archive.php on line 19
+[02-Jun-2019 01:59:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[02-Jun-2019 03:56:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[03-Jun-2019 14:30:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/author-bio.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/author-bio.php on line 12
+[03-Jun-2019 16:48:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/author-bio.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/author-bio.php on line 12
+[05-Jun-2019 16:05:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/index.php on line 17
+[05-Jun-2019 18:21:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/index.php on line 17
+[06-Jun-2019 00:00:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php on line 13
+[06-Jun-2019 01:40:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php on line 13
+[07-Jun-2019 05:01:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[07-Jun-2019 07:24:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[11-Jun-2019 10:54:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-none.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-none.php on line 15
+[21-Jun-2019 13:15:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[06-Jul-2019 06:37:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[06-Jul-2019 08:28:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[15-Jul-2019 01:52:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[17-Jul-2019 09:33:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/archive.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/archive.php on line 19
+[17-Jul-2019 16:11:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[19-Jul-2019 09:19:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/author-bio.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/author-bio.php on line 12
+[21-Jul-2019 08:36:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/index.php on line 17
+[21-Jul-2019 15:09:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content.php on line 13
+[22-Jul-2019 18:32:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[22-Oct-2019 09:13:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/404.php on line 10
+[28-Oct-2019 16:15:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/functions.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/functions.php on line 41
+[09-Nov-2019 18:02:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/content-link.php on line 13
+[11-Nov-2019 09:39:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/archive.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/archive.php on line 19
+[12-Nov-2019 02:17:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/onewerx/public_html/wp-content/themes/twentyfifteen/author-bio.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/twentyfifteen/author-bio.php on line 12

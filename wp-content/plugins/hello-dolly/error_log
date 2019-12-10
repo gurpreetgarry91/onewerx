@@ -1,0 +1,4 @@
+[03-Jun-2019 19:09:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/onewerx/public_html/wp-content/plugins/hello-dolly/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/plugins/hello-dolly/hello.php on line 69

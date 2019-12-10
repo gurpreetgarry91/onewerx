@@ -1,0 +1,22 @@
+[27-Feb-2017 16:39:23 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/devonewerx/public_html/wp-content/plugins/hello.php on line 60
+[26-Apr-2017 16:55:19 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/devonewerx/public_html/wp-content/plugins/hello.php on line 60
+[07-Oct-2017 14:19:52 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/onewerx/public_html/wp-content/plugins/hello.php on line 60
+[02-Nov-2017 01:46:40 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/onewerx/public_html/wp-content/plugins/hello.php on line 60
+[02-Nov-2017 01:49:36 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/onewerx/public_html/wp-content/plugins/hello.php on line 60
+[06-Nov-2017 06:30:54 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/onewerx/public_html/wp-content/plugins/hello.php on line 60
+[16-Nov-2017 10:02:45 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/onewerx/public_html/wp-content/plugins/hello.php on line 60
+[12-Jan-2018 04:59:32 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/onewerx/public_html/wp-content/plugins/hello.php on line 60
+[12-Jan-2018 21:14:08 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/onewerx/public_html/wp-content/plugins/hello.php on line 60
+[18-Jan-2018 07:33:06 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/onewerx/public_html/wp-content/plugins/hello.php on line 60
+[06-Feb-2018 10:48:10 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/onewerx/public_html/wp-content/plugins/hello.php on line 60
+[09-Feb-2018 01:34:23 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/onewerx/public_html/wp-content/plugins/hello.php on line 60
+[12-Feb-2018 02:13:12 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/onewerx/public_html/wp-content/plugins/hello.php on line 60
+[04-Mar-2018 10:20:00 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/onewerx/public_html/wp-content/plugins/hello.php on line 60
+[31-May-2018 14:43:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/onewerx/public_html/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/plugins/hello.php on line 60
+[09-Nov-2018 07:10:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/onewerx/public_html/wp-content/plugins/hello.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/plugins/hello.php on line 60

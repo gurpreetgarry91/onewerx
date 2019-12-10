@@ -1,0 +1,36 @@
+[01-Dec-2018 20:08:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/seosight/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/seosight/404.php on line 10
+[05-Dec-2018 17:51:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/seosight/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/seosight/404.php on line 10
+[05-Dec-2018 17:51:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/seosight/archive.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/seosight/archive.php on line 10
+[03-Jun-2019 18:47:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/seosight/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/seosight/index.php on line 15
+[03-Jun-2019 18:48:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/seosight/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/seosight/index.php on line 15
+[16-Nov-2019 03:07:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/seosight/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/seosight/404.php on line 10
+[16-Nov-2019 05:15:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/seosight/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/seosight/404.php on line 10
+[17-Nov-2019 22:51:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/seosight/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/seosight/404.php on line 10
+[18-Nov-2019 01:02:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/onewerx/public_html/wp-content/themes/seosight/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/onewerx/public_html/wp-content/themes/seosight/404.php on line 10

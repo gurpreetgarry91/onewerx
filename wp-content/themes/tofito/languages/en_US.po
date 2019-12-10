@@ -1,0 +1,597 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-01-22 16:19+0300\n"
+"PO-Revision-Date: 2015-01-22 16:19+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: d:\\www\\pix-theme.com\\tofito\\\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: css\n"
+"X-Poedit-SearchPathExcluded-1: js\n"
+"X-Poedit-SearchPathExcluded-2: library\n"
+
+#: 404.php:10
+msgid "Page not found"
+msgstr ""
+
+#: 404.php:13
+msgid ""
+"The page you are looking for seems to be missing.Go back, or return to "
+"yourcompany.com to choose a new direction.Please report any broken links to "
+"our team."
+msgstr ""
+
+#: 404.php:16
+msgid "Return to previous page"
+msgstr ""
+
+#: addons/wp-pagenavi.php:44
+msgid "&larr;"
+msgstr ""
+
+#: addons/wp-pagenavi.php:45
+msgid "&rarr;"
+msgstr ""
+
+#: addons/wp-pagenavi.php:48 addons/wp-pagenavi.php:49
+#: addons/wp-pagenavi.php:187 addons/wp-pagenavi.php:188
+msgid "..."
+msgstr ""
+
+#: addons/wp-pagenavi.php:99
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr ""
+
+#: addons/wp-pagenavi.php:185
+msgid "1"
+msgstr ""
+
+#: addons/wp-pagenavi.php:186
+msgid "<span class=\"icon-chevron-left\"></span>"
+msgstr ""
+
+#: comments.php:10
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:24
+msgid "Comments"
+msgstr ""
+
+#: comments.php:29 comments.php:43
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: comments.php:32 comments.php:46
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: comments.php:58
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:71
+msgid "You must be"
+msgstr ""
+
+#: comments.php:71
+msgid "logged in"
+msgstr ""
+
+#: comments.php:71
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:77
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:79
+msgid "Log out"
+msgstr ""
+
+#: comments.php:86 contact-us.php:33 template-contact.php:34
+#: woocommerce/single-product-reviews.php:67
+msgid "Name"
+msgstr ""
+
+#: comments.php:89 contact-us.php:46 template-contact.php:47
+msgid "Website"
+msgstr ""
+
+#: comments.php:92 woocommerce/single-product-reviews.php:69
+msgid "Email"
+msgstr ""
+
+#: comments.php:100
+msgid "Comment"
+msgstr ""
+
+#: comments.php:106
+msgid "Send Message."
+msgstr ""
+
+#: contact-us.php:41 template-contact.php:42
+msgid "E-mail"
+msgstr ""
+
+#: contact-us.php:60 template-contact.php:63
+msgid "Send message"
+msgstr ""
+
+#: contact-us.php:113 template-contact.php:109
+msgid "Name is required"
+msgstr ""
+
+#: contact-us.php:114 template-contact.php:110
+msgid "E-mail is required"
+msgstr ""
+
+#: contact-us.php:114 template-contact.php:110
+msgid "Please provide a valid e-mail"
+msgstr ""
+
+#: contact-us.php:114 template-contact.php:110
+msgid "E-mail address should contain at least 6 characters"
+msgstr ""
+
+#: contact-us.php:115 template-contact.php:111
+msgid "Message is required"
+msgstr ""
+
+#: functions.php:231
+msgid "Primary Navigation"
+msgstr ""
+
+#: functions.php:232
+msgid "Top Navigation"
+msgstr ""
+
+#: functions.php:233
+msgid "Footer Navigation"
+msgstr ""
+
+#: functions.php:305
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:306
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:307
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:308
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:319
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:320
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:321
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: functions/meta/gallery-metabox/gmb-admin.php:25
+msgid "Image Gallery"
+msgstr ""
+
+#: functions/meta/gallery-metabox/gmb-admin.php:81
+#: functions/meta/gallery-metabox/gmb-admin.php:145
+msgid "Remove image"
+msgstr ""
+
+#: functions/meta/gallery-metabox/gmb-admin.php:92
+msgid "Add/Edit Images"
+msgstr ""
+
+#: functions/meta/gallery-metabox/gmb-admin.php:102
+msgid "Enable Lightbox for this gallery?"
+msgstr ""
+
+#: functions/meta/gallery-metabox/gmb-admin.php:126
+msgid "Add Images to Gallery"
+msgstr ""
+
+#: functions/meta/gallery-metabox/gmb-admin.php:128
+msgid "Add to gallery"
+msgstr ""
+
+#: functions/meta/helpers/cmb_Meta_Box_ajax.php:47
+msgid "Please Try Again"
+msgstr ""
+
+#: functions/meta/helpers/cmb_Meta_Box_ajax.php:118
+msgid "Remove Embed"
+msgstr ""
+
+#: functions/meta/helpers/cmb_Meta_Box_ajax.php:121
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: functions/meta/helpers/cmb_Meta_Box_types.php:139
+msgid "Add Row"
+msgstr ""
+
+#: functions/meta/helpers/cmb_Meta_Box_types.php:167
+#: functions/meta/helpers/cmb_Meta_Box_types.php:459
+#: functions/meta/helpers/cmb_Meta_Box_types.php:502
+msgid "Remove"
+msgstr ""
+
+#: functions/meta/helpers/cmb_Meta_Box_types.php:437
+#: functions/meta/helpers/cmb_Meta_Box_types.php:475
+msgid "Add or Upload File"
+msgstr ""
+
+#: functions/meta/helpers/cmb_Meta_Box_types.php:448
+#: functions/meta/helpers/cmb_Meta_Box_types.php:494
+msgid "Remove Image"
+msgstr ""
+
+#: functions/meta/helpers/cmb_Meta_Box_types.php:459
+#: functions/meta/helpers/cmb_Meta_Box_types.php:502
+msgid "File:"
+msgstr ""
+
+#: functions/meta/helpers/cmb_Meta_Box_types.php:459
+#: functions/meta/helpers/cmb_Meta_Box_types.php:502
+msgid "Download"
+msgstr ""
+
+#: functions/theme-customizer/blog.php:17
+msgid "Blog"
+msgstr ""
+
+#: functions/theme-customizer/blog.php:28
+msgid "Read More Link"
+msgstr ""
+
+#: functions/theme-customizer/blog.php:42
+msgid "Featured Image on Entries"
+msgstr ""
+
+#: functions/theme-customizer/blog.php:56
+msgid "Featured Image on Posts"
+msgstr ""
+
+#: functions/theme-customizer/copyright.php:33
+msgid "Copyright"
+msgstr ""
+
+#: functions/theme-customizer/copyright.php:42
+msgid "Custom Copyright"
+msgstr ""
+
+#: functions/theme-customizer/header.php:16
+msgid "Header"
+msgstr ""
+
+#: functions/theme-customizer/header.php:26
+msgid "Image Logo"
+msgstr ""
+
+#: functions/theme-customizer/portfolio.php:17
+msgid "Portfolio"
+msgstr ""
+
+#: functions/theme-customizer/portfolio.php:28
+msgid "Portfolio Post Type"
+msgstr ""
+
+#: functions/theme-customizer/portfolio.php:42
+msgid "Portfolio Comments"
+msgstr ""
+
+#: functions/theme-customizer/portfolio.php:56
+msgid "Portfolio Related"
+msgstr ""
+
+#: functions/theme-customizer/portfolio.php:70
+msgid "Portfolio Homepage Posts Per Page"
+msgstr ""
+
+#: functions/theme-customizer/portfolio.php:84
+#: functions/theme-customizer/staff.php:56
+msgid "Archive Posts Per Page"
+msgstr ""
+
+#: functions/theme-customizer/staff.php:17
+msgid "Staff"
+msgstr ""
+
+#: functions/theme-customizer/staff.php:28
+msgid "Staff Post Type"
+msgstr ""
+
+#: functions/theme-customizer/staff.php:42
+msgid "Staff Comments"
+msgstr ""
+
+#: loop.php:13
+msgid "Not Found"
+msgstr ""
+
+#: loop.php:15
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+
+#: portfolio_loop.php:47 taxonomy-portfolio_category.php:66
+#: template-portfolio.php:54
+msgid "Show All"
+msgstr ""
+
+#: portfolio_loop.php:61 template-portfolio.php:71
+msgid ""
+"No categories selected. To fix this, please login to your WP Admin area and "
+"set\n"
+"\t\t\t\t\tthe categories you want to show by editing this page and setting "
+"one or more categories \n"
+"\t\t\t\t\tin the multi checkbox field \"Portfolio Categories\"."
+msgstr ""
+
+#: portfolio_loop.php:98 taxonomy-portfolio_category.php:107
+#: template-portfolio.php:118
+msgid "No preview image"
+msgstr ""
+
+#: search.php:40
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:42
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: searchform.php:5
+msgid "Type and hit enter"
+msgstr ""
+
+#: single-portfolio.php:41
+msgid "Close Project"
+msgstr ""
+
+#: single-post.php:40 single.php:48
+msgid "Category: "
+msgstr ""
+
+#: single-post.php:43 single.php:50
+msgid ", "
+msgstr ""
+
+#: single-post.php:45 single.php:52
+#, php-format
+msgid "Tags: %1$s"
+msgstr ""
+
+#: template-parts/blog-template/blog-template-single.php:29
+#: template-parts/blog-template/blog-template.php:29
+msgid "0 Comments"
+msgstr ""
+
+#: template-parts/blog-template/blog-template-single.php:29
+#: template-parts/blog-template/blog-template.php:29
+msgid "1 Comment"
+msgstr ""
+
+#: template-parts/blog-template/blog-template-single.php:29
+#: template-parts/blog-template/blog-template.php:29
+msgid "% Comments"
+msgstr ""
+
+#: template-parts/blog-template/blog-template.php:40
+#: template-parts/blog-template/blog-template.php:53
+msgid "Read More"
+msgstr ""
+
+#: under-construction.php:50
+msgid "Weeks"
+msgstr ""
+
+#: under-construction.php:53
+msgid "Days"
+msgstr ""
+
+#: under-construction.php:56
+msgid "Hours"
+msgstr ""
+
+#: under-construction.php:59
+msgid "Minutes"
+msgstr ""
+
+#: under-construction.php:62
+msgid "Seconds"
+msgstr ""
+
+#: woocommerce/content-product.php:73
+msgid "View more"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:63
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:91 woocommerce/global/breadcrumb.php:189
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:147
+msgid "Error 404"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:193
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:198
+msgid "Author:"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:203
+msgid "Page"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:22
+msgid "Sort by"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:28
+msgid "Default sorting"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:29
+msgid "Sort by popularity"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:30
+msgid "Sort by average rating"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:31
+msgid "Sort by newness"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:32
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:33
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:65
+msgid "Resize"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:71
+msgid "View"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:75
+msgid "All"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:29
+msgid "Showing the single result"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:31
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:16
+#: woocommerce/single-product/sale-flash.php:16
+msgid "sale"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:25
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:49
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:62
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:62
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:63
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:72
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:79
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:80
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:81
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:82
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:84
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:88
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:97
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/meta.php:19
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/related.php:44
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/review.php:26
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:27
+msgid "out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:34
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: woocommerce/single-product/review.php:43
+msgid "verified owner"
+msgstr ""

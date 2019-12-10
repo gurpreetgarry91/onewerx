@@ -1,0 +1,60 @@
+﻿body {
+	font-family: sans-serif;
+	font-size: 12px;
+}
+label {
+	float: left;
+	width: 150px;
+}
+span {
+	float: left;
+}
+textarea, input[type="text"], input[type="password"], input[type="file"], input[type="button"], input[type="submit"], input[type="reset"], input[type="email"], input[type="number"], input[type="search"], input[type="tel"], input[type="url"], select {
+	border-color: #DFDFDF;
+	background-color: white;
+}
+select {
+	padding: 2px;
+	height: 2em;
+	width: 210px;
+	font-family: sans-serif;
+	font-size: 12px;
+}
+textarea, input {
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	border-width: 1px;
+	border-style: solid;
+	font-family: sans-serif;
+	font-size: 12px;
+}
+input {
+	padding: 3px;
+	width: 200px;
+	font-family: sans-serif;
+	font-size: 12px;
+}
+textarea {
+	width: 425px;
+	height: 200px;
+}
+
+
+.mce-toolbar .mce-btn {
+    background: none repeat scroll 0 0 #FAFAFA !important;
+
+}
+
+a.add {
+ background: none repeat scroll 0 0 #0074a2;
+    border: 1px solid #0074a2;
+    border-radius: 5px;
+    color: #fff;
+    display: inline-block;
+    font: 13px/35px arial;
+    height: 35px;
+    padding: 0 10px;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+

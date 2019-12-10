@@ -1,0 +1,3 @@
+[27-Feb-2017 16:39:23 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/devonewerx/public_html/wp-content/plugins/hello.php on line 60
+[26-Apr-2017 16:55:19 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/devonewerx/public_html/wp-content/plugins/hello.php on line 60
+[07-Oct-2017 14:19:52 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/onewerx/public_html/wp-content/plugins/hello.php on line 60

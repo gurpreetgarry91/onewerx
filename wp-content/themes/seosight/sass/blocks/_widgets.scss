@@ -1,0 +1,33 @@
+/*------------- #WIDGETS --------------*/
+
+
+.widget {
+  margin-bottom: 80px;
+
+  ul{
+    list-style: none;
+  }
+
+  @media (max-width: 768px) {
+    margin-bottom: 30px;
+  }
+  .heading, .crumina-heading {
+    margin-bottom: 30px;
+  }
+}
+
+.sidebar .widget {
+  &:first-child {
+    @media (max-width: 768px) {
+      margin-top: 40px;
+    }
+  }
+}
+
+.visual-hidden {
+  clip: rect(1px, 1px, 1px, 1px);
+  position: absolute !important;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+}

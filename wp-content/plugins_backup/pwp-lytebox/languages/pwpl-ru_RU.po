@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pwpl\n"
+"POT-Creation-Date: 2015-09-22 18:17+0300\n"
+"PO-Revision-Date: 2015-09-22 18:18+0300\n"
+"Last-Translator: Polkan <pwpcode@gmail.com>\n"
+"Language-Team: \n"
+"Language: Russian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /var/www/api-shop_test/public_html/wp-content/plugins/"
+"pwp-lytebox\n"
+
+#: /var/www/api-shop_test/public_html/wp-content/plugins/pwp-lytebox/main.php:56
+msgid "Black"
+msgstr "Черная"
+
+#: /var/www/api-shop_test/public_html/wp-content/plugins/pwp-lytebox/main.php:57
+msgid "Gray"
+msgstr "Светлая"
+
+#: /var/www/api-shop_test/public_html/wp-content/plugins/pwp-lytebox/main.php:58
+msgid "Red"
+msgstr "Красная"
+
+#: /var/www/api-shop_test/public_html/wp-content/plugins/pwp-lytebox/main.php:59
+msgid "Green"
+msgstr "Зеленая"
+
+#: /var/www/api-shop_test/public_html/wp-content/plugins/pwp-lytebox/main.php:60
+msgid "Blue"
+msgstr "Синяя"
+
+#: /var/www/api-shop_test/public_html/wp-content/plugins/pwp-lytebox/main.php:61
+msgid "Gold"
+msgstr "Желтая"
+
+#: /var/www/api-shop_test/public_html/wp-content/plugins/pwp-lytebox/main.php:62
+msgid "Orange"
+msgstr "Оранжевая"
+
+#: /var/www/api-shop_test/public_html/wp-content/plugins/pwp-lytebox/main.php:147
+msgid "Main settings"
+msgstr "Основные"
+
+#: /var/www/api-shop_test/public_html/wp-content/plugins/pwp-lytebox/main.php:153
+msgid "Theme"
+msgstr "Тема"
+
+#: /var/www/api-shop_test/public_html/wp-content/plugins/pwp-lytebox/main.php:157
+msgid "Resize speed"
+msgstr "Скорость переключения"
+
+#: /var/www/api-shop_test/public_html/wp-content/plugins/pwp-lytebox/main.php:161
+msgid "Autogroup"
+msgstr "Автогруппировка"
+
+#: /var/www/api-shop_test/public_html/wp-content/plugins/pwp-lytebox/main.php:180
+msgid "Color scheme of modal window"
+msgstr "Цветовая схема модального окна"
+
+#: /var/www/api-shop_test/public_html/wp-content/plugins/pwp-lytebox/main.php:192
+msgid "1-slowest, 10-fastest"
+msgstr "1 - самая медленная, 10 - самая быстрая"
+
+#: /var/www/api-shop_test/public_html/wp-content/plugins/pwp-lytebox/main.php:205
+msgid "Auto add all found images to a group"
+msgstr "Автоматически собирать все ссылки страницы в группу"
+
+#: /var/www/api-shop_test/public_html/wp-content/plugins/pwp-lytebox/main.php:206
+msgid ""
+"When disabled, all opening pictures will not have \"next\" and \"prev\" "
+"buttons to see other images from the page, until you manually add <b>data-"
+"lyte-options=\"group:GROUP-NAME-HERE\"</b> attribute in &lt;a&gt; tags of "
+"images you want to be groupped."
+msgstr ""
+"Если отключено, модальное окно не будет иметь кнопок \"вперед\" и \"назад\" "
+"для просмотра прочих изображений текущей страницы, пока вы вручную не "
+"добавите в теги &lt;a&gt; аттрибут <b>data-lyte-options=\"group:ИМЯ-ГРУППЫ"
+"\"</b>. Таким образом на одной странице можно создать несколько независимых "
+"групп."
+
+#: /var/www/api-shop_test/public_html/wp-content/plugins/pwp-lytebox/main.php:222
+msgid "Settings"
+msgstr "Настройки"
+
+#~ msgid ""
+#~ "all opening pictures will not have buttons to see other images from the "
+#~ "page, until you manually"
+#~ msgstr "вапыва пывап выпы вап ывапывапывапывап ыва выап вап"
+
+#~ msgid "robocop"
+#~ msgstr "робокоп"
+
+#~ msgid "terminator"
+#~ msgstr "терминатор"

@@ -1,0 +1,143 @@
+/*------------------------------------------------------------------
+Project:	Tofito
+Version:	1.0
+Last change:	19/10/14 []
+Assigned to:	Alex zaymund (vf), Mike Prestazilla (sl)
+Primary use:	Debugging and Updates
+-------------------------------------------------------------------*/
+
+
+
+/*
+| --------------------------------------------
+| Fixed and Improved 30.10
+| --------------------------------------------
+*/
+
+
+aside >.block, form.cart, #comments, .portfolio-filter-wrap, .wrap-main.text-right {
+	-webkit-transform: translate3d(0px, 1px, 0px);
+}
+html .post .entry-meta {
+	margin-top: -54px;
+}
+.type-post.sticky {
+	position: relative;
+}
+.type-post.sticky:after {
+	content: "\e031";
+	font-family: 'Simple-Line-Icons';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	color: #ff1c32;
+	font-size: 31px;
+	height: 20px;
+	position: absolute;
+	right: -20px;
+	text-transform: none;
+	top: -22px;
+	width: 20px;
+	z-index: 777;
+}
+.type-post.sticky .entry-main {
+	background: none repeat scroll 0 0 #F9F9F9;
+}
+.type-post.sticky .entry-content, .type-post.sticky .entry-title, .type-post.sticky .entry-footer {
+	padding: 0 20px;
+}
+.page-img {
+	background-size: cover !important;
+	background: none repeat scroll 0 0 #001e40;
+}
+.admin-bar .ha-header {
+	top: 30px;
+}
+/*14.11.2014*/
+ 
+ 
+.point-section, .portfolio-point, .point-contact {
+	position: relative;
+	top: -190px;
+}
+.our-team .container {
+	width: 100% !important;
+	max-width: 100%;
+}
+/*21.11*/
+ 
+ 
+input.error {
+	background: none repeat scroll 0 0 #f2dede !important;
+}
+/*26.11*/
+
+.team-member .desc-det a {
+	color: #fff;
+	font-weight: 600;
+}
+.social-team {
+	width: 229px;
+}
+.social-team li {
+	float: none !important;
+}
+
+
+/*Top Munu 16.12*/
+
+.topmenu{
+ float: right;
+    padding-right: 10px;
+    margin-top: -30px;
+    position: relative;
+    top: 15px;
+}
+
+
+.topmenu li{
+  font-size: 12px;
+    list-style: outside none none;
+    display: inline-block;
+    color: #fff;
+}
+.topmenu li a{
+ color: #fff;
+    font-size: 11px;
+    padding: 0px 5px;
+}
+
+
+
+/*Added Map 9.02.2015*/
+
+.map{
+	margin-bottom:-70px;
+}
+
+
+html .bg {
+z-index: 1;
+}
+
+
+.home  .row {
+position: relative;
+z-index: 9;
+}
+
+.home  .container img {
+position: relative;
+z-index: 9;
+}
+
+
+
+/*.zindexfix{
+	z-index:-1 !important;
+}
+*/
